@@ -1,7 +1,7 @@
 import os
 from datetime import datetime
 
-import xlrd
+import filetype
 import csv
 from xlrd import xldate_as_tuple
 
